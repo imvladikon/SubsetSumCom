@@ -1,0 +1,12 @@
+G:\subsetsum\SubsetSum\Debug\SubsetSum.dll
+G:\subsetsum\SubsetSum\Debug\SubsetSum.pdb
+G:\subsetsum\SubsetSum\Debug\SubsetSum.tlb
+G:\subsetsum\SubsetSum\CSDllCOMServer\obj\Debug\SubsetSum.dll
+G:\subsetsum\SubsetSum\CSDllCOMServer\obj\Debug\SubsetSum.pdb
+G:\subsetsum\SubsetSum\SubsetSum\obj\Debug\SubsetSum.dll
+G:\subsetsum\SubsetSum\SubsetSum\obj\Debug\SubsetSum.pdb
+c:\Users\Robert\Desktop\SubsetSum\SubsetSum\Debug\SubsetSum.pdb
+c:\Users\Robert\Desktop\SubsetSum\SubsetSum\Debug\SubsetSum.tlb
+c:\Users\Robert\Desktop\SubsetSum\SubsetSum\SubsetSum\obj\Debug\SubsetSum.csprojResolveAssemblyReference.cache
+c:\Users\Robert\Desktop\SubsetSum\SubsetSum\SubsetSum\obj\Debug\SubsetSum.dll
+c:\Users\Robert\Desktop\SubsetSum\SubsetSum\SubsetSum\obj\Debug\SubsetSum.pdb

@@ -1,0 +1,6 @@
+G:\subsetsum\SubsetSum\Release\SubsetSum.dll
+G:\subsetsum\SubsetSum\Release\SubsetSum.pdb
+G:\subsetsum\SubsetSum\Release\SubsetSum.tlb
+G:\subsetsum\SubsetSum\SubsetSum\obj\Release\SubsetSum.csprojResolveAssemblyReference.cache
+G:\subsetsum\SubsetSum\SubsetSum\obj\Release\SubsetSum.dll
+G:\subsetsum\SubsetSum\SubsetSum\obj\Release\SubsetSum.pdb

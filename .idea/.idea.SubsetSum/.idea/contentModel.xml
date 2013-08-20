@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Robert\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Robert\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SubsetSum.-1093917354.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Robert\Desktop\SubsetSum\SubsetSum" t="IncludeFlat">
+      <e p="Debug" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SubsetSum" t="IncludeRecursive">
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SubsetSum.csproj" t="IncludeRecursive" />
+        <e p="VKObject.cs" t="Include" />
+      </e>
+      <e p="SubsetSum.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

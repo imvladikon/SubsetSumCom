@@ -1,0 +1,6 @@
+G:\subsetsum\SubsetSum\CSDllCOMServer\obj\Debug\CSDllCOMServer.csprojResolveAssemblyReference.cache
+G:\subsetsum\SubsetSum\Debug\CSDllCOMServer.dll
+G:\subsetsum\SubsetSum\Debug\CSDllCOMServer.pdb
+G:\subsetsum\SubsetSum\Debug\CSDllCOMServer.tlb
+G:\subsetsum\SubsetSum\CSDllCOMServer\obj\Debug\CSDllCOMServer.dll
+G:\subsetsum\SubsetSum\CSDllCOMServer\obj\Debug\CSDllCOMServer.pdb
